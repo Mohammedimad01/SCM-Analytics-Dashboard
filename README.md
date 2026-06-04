@@ -78,8 +78,7 @@ The dashboard focuses on:
 SCM-Analytics-Dashboard/
 │
 ├── dashboard.pbix
-├── SCM_Data.csv
-├── SCM_Data.xlsx
+├── SCM_Data
 ├── dashboard_preview.png
 ├── README.md
 └── Insights.md
