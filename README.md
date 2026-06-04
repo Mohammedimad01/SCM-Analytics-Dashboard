@@ -81,7 +81,8 @@ SCM-Analytics-Dashboard/
 ├── SCM_Data.csv
 ├── SCM_Data.xlsx
 ├── dashboard_preview.png
-└── README.md
+├── README.md
+└── Insights.md
 ```
 
 
