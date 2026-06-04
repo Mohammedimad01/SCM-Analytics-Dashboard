@@ -11,7 +11,6 @@ The dashboard provides insights into:
 - Segment-wise Orders
 - Customer Profitability
 
----
 
 ## Tools Used
 - Power BI
@@ -19,7 +18,6 @@ The dashboard provides insights into:
 - Microsoft Excel
 - CSV Dataset
 
----
 
 ## Key Features
 - KPI Cards for Sales, Profit, Orders, and Quantity
@@ -29,14 +27,11 @@ The dashboard provides insights into:
 - Monthly Order Trend Analysis
 - Top Profitable Customers
 
----
 
 ## Dashboard Preview
 
-![Dashboard Preview](<img width="1289" height="718" alt="Dashboard_scm" src="https://github.com/user-attachments/assets/cfb2bbc1-b2dc-4645-9a2d-875acfb8444e" />
-)
+(<img width="1289" height="718" alt="Dashboard_scm" src="https://github.com/user-attachments/assets/cfb2bbc1-b2dc-4645-9a2d-875acfb8444e" />)
 
----
 
 ## Business Insights
 - Consumer segment generated the highest profit.
@@ -44,7 +39,6 @@ The dashboard provides insights into:
 - Profitability stood at 12.49%.
 - Western and Eastern regions showed strong performance.
 
----
 
 ## Files Included
 - `dashboard.pbix` → Power BI Dashboard
